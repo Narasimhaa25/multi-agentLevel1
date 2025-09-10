@@ -14,11 +14,14 @@ The focus here is on prompt engineering:
 
 ⚙️ Setup and Installation
 	1.	Ensure you have Python 3.9 or higher installed.
-	2.	Clone this repository and navigate to the level1 directory.
-	3.	Install the required dependencies:
+
+  	
+   2.	Clone this repository and navigate to the level1 directory.
+	
+ 3.	Install the required dependencies:
             pip install -r ../requirements.txt
             
-    The requirements.txt file includes:
+   		 The requirements.txt file includes:
                     •	google-generativeai
                     •	python-dotenv
    4.	Create a .env file in the same directory with your Gemini API key:
