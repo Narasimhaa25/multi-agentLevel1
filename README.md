@@ -18,13 +18,15 @@ The focus here is on prompt engineering:
 	3.	Install the required dependencies:
             pip install -r ../requirements.txt
             
-            The requirements.txt file includes:
+    The requirements.txt file includes:
                     •	google-generativeai
                     •	python-dotenv
-    4.	Create a .env file in the same directory with your Gemini API key:
-            GEMINI_API_KEY=your_api_key_here
-    5.	Run the chatbot:
-            python chatbot.py
+   4.	Create a .env file in the same directory with your Gemini API key:
+
+     		GEMINI_API_KEY=your_api_key_here
+5.	Run the chatbot:
+
+  			 python chatbot.py
 
 
 
@@ -61,13 +63,12 @@ The focus here is on prompt engineering:
             7. **Sunsets are different:** At sunrise and sunset, the sunlight travels through a much thicker layer of atmosphere.  This means that most of the blue light is scattered away before it reaches our eyes, leaving the longer wavelengths like red and orange to dominate, resulting in the beautiful colors of sunrise and sunset. 
 
 
-        ✅ Example 3 — Arithmetic Refusal
+✅ Example 3 — Arithmetic Refusal
 
          You: What is 15 + 23?
          Bot: 
                 I cannot perform calculations. Please use a calculator. 
-
-         ✅ Example 4 — General Knowledge           
+✅ Example 4 — General Knowledge           
          You:  prime minister of India
          Bot:
                 The current Prime Minister of India is **Narendra Modi**. 
