@@ -79,3 +79,7 @@ The focus here is on prompt engineering:
          Bot:
                 The current Prime Minister of India is **Narendra Modi**. 
 
+![Uploading Screenshot 2025-09-10 at 02.02.15.png…]()
+
+
+
