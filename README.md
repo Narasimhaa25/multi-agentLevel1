@@ -42,7 +42,9 @@ The focus here is on prompt engineering:
             5. Blue  
             6. Indigo  
             7. Violet
-    ✅ Example 2 — Step-by-step Explanation     
+
+
+ ✅ Example 2 — Step-by-step Explanation     
 
         You: Tell me why the sky is blue?    
         Bot: 
@@ -69,7 +71,8 @@ The focus here is on prompt engineering:
          Bot: 
                 I cannot perform calculations. Please use a calculator. 
 ✅ Example 4 — General Knowledge           
-         You:  prime minister of India
+        	
+		  You:  prime minister of India
          Bot:
                 The current Prime Minister of India is **Narendra Modi**. 
 
