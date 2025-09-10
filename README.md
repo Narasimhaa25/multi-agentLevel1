@@ -78,7 +78,8 @@ The focus here is on prompt engineering:
 		  You:  prime minister of India
          Bot:
                 The current Prime Minister of India is **Narendra Modi**. 
-<img width="1680" height="1050" alt="Screenshot 2025-09-10 at 02 02 15" src="https://github.com/user-attachments/assets/4f717545-d786-4ba4-b4dc-855b9c947b83" />
+
+<img width="1680" height="1050" alt="Screenshot 2025-09-10 at 01 30 08" src="https://github.com/user-attachments/assets/b536f08c-154d-4e70-b2b5-f2b4dc65dc66" />
 
 
 
